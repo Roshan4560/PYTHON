@@ -1,0 +1,6 @@
+Hi everyone
+we are learning File I/O
+using java
+I like programming in java
+This is a new line.
+This is another new line.
